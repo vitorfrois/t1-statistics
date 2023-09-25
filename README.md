@@ -1,6 +1,8 @@
 # Trabalho 1 de Estatística
 Vítor Fróis
+
 Thaís Ribeiro
+
 Gabriel Perão
 
 
